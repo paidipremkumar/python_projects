@@ -7,10 +7,10 @@ COMPANY_NAME = "Tesla Inc"
 
 STOCK_ENDPOINT = "https://www.alphavantage.co/query"
 NEWS_ENDPOINT = "https://newsapi.org/v2/everything"
-API_KEY = "VOEWUWSACKCQPNWS"
-NEWS_API = "e0d3c54647f547a38cdd4595a07d8ee9"
-ACCOUNT_SID = "AC624022be539b9a026318d33c187a3beb"
-AUTH_TOKEN = "cd921cb2654ad3e6b64207a6ae6508a4"
+API_KEY = "Your alphavantage API key"
+NEWS_API = "Your newsapi key"
+ACCOUNT_SID = "Your Twilio account SID"
+AUTH_TOKEN = " Your Twilio account Auth Token"
 dict = {}
 
 parameters = {
