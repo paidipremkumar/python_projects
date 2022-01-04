@@ -45,6 +45,6 @@ if difference_percent > 5:
         message = client.messages \
             .create(
             body=new_article,
-            from_='+12568874549',
-            to='+919985123453'
+            from_='Number created using Twilio', # for example +12568874549
+            to='Your Number'
         )
